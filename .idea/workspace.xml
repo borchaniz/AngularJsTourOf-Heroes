@@ -30,21 +30,44 @@
       <file leaf-file-name="app.component.ts" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/quickstart/src/app/app.component.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="23" column="103" lean-forward="false" selection-start-line="23" selection-start-column="103" selection-end-line="23" selection-end-column="103" />
+            <state relative-caret-position="-706">
+              <caret line="24" column="34" lean-forward="false" selection-start-line="24" selection-start-column="34" selection-end-line="24" selection-end-column="34" />
               <folding>
-                <marker date="1509739211479" expanded="true" signature="526:714" ph="..." />
-                <marker date="1509739211479" expanded="true" signature="631:704" ph="..." />
-                <marker date="1509739211479" expanded="true" signature="745:964" ph="..." />
-                <marker date="1509739211479" expanded="true" signature="853:958" ph="..." />
-                <marker date="1509739211479" expanded="true" signature="993:1058" ph="{...}" />
-                <marker date="1509739211479" expanded="true" signature="1069:1157" ph="{...}" />
-                <marker date="1509739211479" expanded="true" signature="1171:1344" ph="{...}" />
-                <marker date="1509739211479" expanded="true" signature="1373:1438" ph="{...}" />
-                <marker date="1509739211479" expanded="true" signature="1458:1527" ph="{...}" />
-                <marker date="1509739211479" expanded="true" signature="1544:1588" ph="{...}" />
-                <marker date="1509739211479" expanded="true" signature="1606:1895" ph="{...}" />
+                <element signature="e#0#42#0" expanded="true" />
+                <marker date="1509784073032" expanded="true" signature="505:693" ph="..." />
+                <marker date="1509784073032" expanded="true" signature="610:683" ph="..." />
+                <marker date="1509784073032" expanded="true" signature="781:846" ph="{...}" />
+                <marker date="1509784073032" expanded="true" signature="857:945" ph="{...}" />
+                <marker date="1509784073032" expanded="true" signature="959:1132" ph="{...}" />
+                <marker date="1509784073032" expanded="true" signature="1161:1226" ph="{...}" />
+                <marker date="1509784073032" expanded="true" signature="1246:1315" ph="{...}" />
+                <marker date="1509784073032" expanded="true" signature="1332:1376" ph="{...}" />
+                <marker date="1509784073032" expanded="true" signature="1394:1683" ph="{...}" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="hero-detail.component.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/quickstart/src/app/hero-detail.component.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="33" lean-forward="true" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
+              <folding>
+                <element signature="e#0#42#0" expanded="true" />
+                <marker date="1509784085541" expanded="true" signature="232:443" ph="..." />
+                <marker date="1509784085541" expanded="true" signature="332:437" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="hero.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/quickstart/src/app/hero.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="1" lean-forward="false" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -52,32 +75,10 @@
       <file leaf-file-name="app.module.ts" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/quickstart/src/app/app.module.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="32" lean-forward="false" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
+            <state relative-caret-position="153">
+              <caret line="9" column="51" lean-forward="false" selection-start-line="9" selection-start-column="51" selection-end-line="9" selection-end-column="51" />
               <folding>
                 <element signature="e#0#46#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="app.component.spec.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/quickstart/src/app/app.component.spec.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="main.ts" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/quickstart/src/main.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding>
-                <element signature="e#0#75#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -92,8 +93,10 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/quickstart/package.json" />
+        <option value="$PROJECT_DIR$/quickstart/src/app/hero.ts" />
         <option value="$PROJECT_DIR$/quickstart/src/app/app.module.ts" />
         <option value="$PROJECT_DIR$/quickstart/src/app/app.component.ts" />
+        <option value="$PROJECT_DIR$/quickstart/src/app/hero-detail.component.ts" />
       </list>
     </option>
   </component>
@@ -196,12 +199,12 @@
       <option name="presentableId" value="Default" />
       <updated>1509661614883</updated>
       <workItem from="1509661616522" duration="1455000" />
-      <workItem from="1509663111257" duration="11019000" />
+      <workItem from="1509663111257" duration="13307000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12474000" />
+    <option name="totallyTimeSpent" value="14762000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -246,6 +249,10 @@
         <option value="$PROJECT_DIR$/quickstart/src/app/app.component.spec.js.map" />
         <option value="$PROJECT_DIR$/quickstart/src/app/app.component.js" />
         <option value="$PROJECT_DIR$/quickstart/src/app/app.module.js" />
+        <option value="$PROJECT_DIR$/quickstart/src/app/hero-detail.component.js" />
+        <option value="$PROJECT_DIR$/quickstart/src/app/hero-detail.component.js.map" />
+        <option value="$PROJECT_DIR$/quickstart/src/app/hero.js.map" />
+        <option value="$PROJECT_DIR$/quickstart/src/app/hero.js" />
       </list>
     </option>
   </component>
@@ -257,7 +264,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/quickstart/src/app/app.component.ts</url>
-          <line>19</line>
+          <line>16</line>
           <properties />
         </line-breakpoint>
       </breakpoints>
@@ -292,32 +299,51 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/quickstart/src/app/hero.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="1" lean-forward="false" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/quickstart/src/app/app.module.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="32" lean-forward="false" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
+        <state relative-caret-position="153">
+          <caret line="9" column="51" lean-forward="false" selection-start-line="9" selection-start-column="51" selection-end-line="9" selection-end-column="51" />
           <folding>
             <element signature="e#0#46#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/quickstart/src/app/app.component.ts">
+    <entry file="file://$PROJECT_DIR$/quickstart/src/app/hero-detail.component.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
-          <caret line="23" column="103" lean-forward="false" selection-start-line="23" selection-start-column="103" selection-end-line="23" selection-end-column="103" />
+          <caret line="11" column="33" lean-forward="true" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
           <folding>
-            <marker date="1509739211479" expanded="true" signature="526:714" ph="..." />
-            <marker date="1509739211479" expanded="true" signature="631:704" ph="..." />
-            <marker date="1509739211479" expanded="true" signature="745:964" ph="..." />
-            <marker date="1509739211479" expanded="true" signature="853:958" ph="..." />
-            <marker date="1509739211479" expanded="true" signature="993:1058" ph="{...}" />
-            <marker date="1509739211479" expanded="true" signature="1069:1157" ph="{...}" />
-            <marker date="1509739211479" expanded="true" signature="1171:1344" ph="{...}" />
-            <marker date="1509739211479" expanded="true" signature="1373:1438" ph="{...}" />
-            <marker date="1509739211479" expanded="true" signature="1458:1527" ph="{...}" />
-            <marker date="1509739211479" expanded="true" signature="1544:1588" ph="{...}" />
-            <marker date="1509739211479" expanded="true" signature="1606:1895" ph="{...}" />
+            <element signature="e#0#42#0" expanded="true" />
+            <marker date="1509784085541" expanded="true" signature="232:443" ph="..." />
+            <marker date="1509784085541" expanded="true" signature="332:437" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quickstart/src/app/app.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-706">
+          <caret line="24" column="34" lean-forward="false" selection-start-line="24" selection-start-column="34" selection-end-line="24" selection-end-column="34" />
+          <folding>
+            <element signature="e#0#42#0" expanded="true" />
+            <marker date="1509784073032" expanded="true" signature="505:693" ph="..." />
+            <marker date="1509784073032" expanded="true" signature="610:683" ph="..." />
+            <marker date="1509784073032" expanded="true" signature="781:846" ph="{...}" />
+            <marker date="1509784073032" expanded="true" signature="857:945" ph="{...}" />
+            <marker date="1509784073032" expanded="true" signature="959:1132" ph="{...}" />
+            <marker date="1509784073032" expanded="true" signature="1161:1226" ph="{...}" />
+            <marker date="1509784073032" expanded="true" signature="1246:1315" ph="{...}" />
+            <marker date="1509784073032" expanded="true" signature="1332:1376" ph="{...}" />
+            <marker date="1509784073032" expanded="true" signature="1394:1683" ph="{...}" />
           </folding>
         </state>
       </provider>
