@@ -16,7 +16,7 @@
     <favorites_list name="Heroes" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/quickstart/package.json">
           <provider selected="true" editor-type-id="text-editor">
@@ -30,33 +30,19 @@
       <file leaf-file-name="app.component.ts" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/quickstart/src/app/app.component.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-706">
-              <caret line="24" column="34" lean-forward="false" selection-start-line="24" selection-start-column="34" selection-end-line="24" selection-end-column="34" />
+            <state relative-caret-position="348">
+              <caret line="89" column="1" lean-forward="true" selection-start-line="89" selection-start-column="1" selection-end-line="89" selection-end-column="1" />
               <folding>
-                <element signature="e#0#42#0" expanded="true" />
-                <marker date="1509784073032" expanded="true" signature="505:693" ph="..." />
-                <marker date="1509784073032" expanded="true" signature="610:683" ph="..." />
-                <marker date="1509784073032" expanded="true" signature="781:846" ph="{...}" />
-                <marker date="1509784073032" expanded="true" signature="857:945" ph="{...}" />
-                <marker date="1509784073032" expanded="true" signature="959:1132" ph="{...}" />
-                <marker date="1509784073032" expanded="true" signature="1161:1226" ph="{...}" />
-                <marker date="1509784073032" expanded="true" signature="1246:1315" ph="{...}" />
-                <marker date="1509784073032" expanded="true" signature="1332:1376" ph="{...}" />
-                <marker date="1509784073032" expanded="true" signature="1394:1683" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="hero-detail.component.ts" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/quickstart/src/app/hero-detail.component.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="33" lean-forward="true" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
-              <folding>
-                <element signature="e#0#42#0" expanded="true" />
-                <marker date="1509784085541" expanded="true" signature="232:443" ph="..." />
-                <marker date="1509784085541" expanded="true" signature="332:437" ph="..." />
+                <element signature="e#0#48#0" expanded="true" />
+                <marker date="1510067252388" expanded="true" signature="245:453" ph="..." />
+                <marker date="1510067252388" expanded="true" signature="284:443" ph="..." />
+                <marker date="1510067252388" expanded="true" signature="541:612" ph="{...}" />
+                <marker date="1510067252388" expanded="true" signature="625:723" ph="{...}" />
+                <marker date="1510067252388" expanded="true" signature="739:930" ph="{...}" />
+                <marker date="1510067252388" expanded="true" signature="961:1032" ph="{...}" />
+                <marker date="1510067252388" expanded="true" signature="1054:1131" ph="{...}" />
+                <marker date="1510067252388" expanded="true" signature="1150:1200" ph="{...}" />
+                <marker date="1510067252388" expanded="true" signature="1220:1535" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -72,13 +58,59 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="app.component.spec.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/quickstart/src/app/app.component.spec.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="app.module.ts" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/quickstart/src/app/app.module.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="51" lean-forward="false" selection-start-line="9" selection-start-column="51" selection-end-line="9" selection-end-column="51" />
+            <state relative-caret-position="255">
+              <caret line="15" column="2" lean-forward="false" selection-start-line="15" selection-start-column="2" selection-end-line="15" selection-end-column="2" />
               <folding>
                 <element signature="e#0#46#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="hero.service.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/quickstart/src/app/hero.service.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="35" lean-forward="false" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
+              <folding>
+                <element signature="e#0#43#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mock-heroes.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/quickstart/src/app/mock-heroes.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" column="7" lean-forward="false" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="hero-detail.component.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/quickstart/src/app/hero-detail.component.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="18" column="1" lean-forward="false" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+              <folding>
+                <element signature="e#0#49#0" expanded="true" />
+                <marker date="1510065554559" expanded="true" signature="157:369" ph="..." />
+                <marker date="1510065554559" expanded="true" signature="255:358" ph="..." />
               </folding>
             </state>
           </provider>
@@ -93,10 +125,12 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/quickstart/package.json" />
+        <option value="$PROJECT_DIR$/quickstart/src/app/hero-detail.component.ts" />
         <option value="$PROJECT_DIR$/quickstart/src/app/hero.ts" />
         <option value="$PROJECT_DIR$/quickstart/src/app/app.module.ts" />
+        <option value="$PROJECT_DIR$/quickstart/src/app/mock-heroes.ts" />
+        <option value="$PROJECT_DIR$/quickstart/src/app/hero.service.ts" />
         <option value="$PROJECT_DIR$/quickstart/src/app/app.component.ts" />
-        <option value="$PROJECT_DIR$/quickstart/src/app/hero-detail.component.ts" />
       </list>
     </option>
   </component>
@@ -136,6 +170,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -166,7 +201,6 @@
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -175,6 +209,7 @@
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
     <property name="typescript-compiler-editor-notification" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -200,11 +235,12 @@
       <updated>1509661614883</updated>
       <workItem from="1509661616522" duration="1455000" />
       <workItem from="1509663111257" duration="13307000" />
+      <workItem from="1510065512259" duration="1793000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14762000" />
+    <option name="totallyTimeSpent" value="16590000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -218,22 +254,22 @@
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1366" height="768" extended-state="6" />
     <layout>
-      <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24963397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3294271" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -264,8 +300,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/quickstart/src/app/app.component.ts</url>
-          <line>16</line>
-          <properties />
+          <line>6</line>
         </line-breakpoint>
       </breakpoints>
       <option name="time" value="1" />
@@ -273,6 +308,376 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/quickstart/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quickstart/src/app/app.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="15" lean-forward="false" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
+          <folding>
+            <element signature="e#0#48#0" expanded="true" />
+            <marker date="1510067252388" expanded="true" signature="245:453" ph="..." />
+            <marker date="1510067252388" expanded="true" signature="284:443" ph="..." />
+            <marker date="1510067252388" expanded="true" signature="541:612" ph="{...}" />
+            <marker date="1510067252388" expanded="true" signature="625:723" ph="{...}" />
+            <marker date="1510067252388" expanded="true" signature="739:930" ph="{...}" />
+            <marker date="1510067252388" expanded="true" signature="961:1032" ph="{...}" />
+            <marker date="1510067252388" expanded="true" signature="1054:1131" ph="{...}" />
+            <marker date="1510067252388" expanded="true" signature="1150:1200" ph="{...}" />
+            <marker date="1510067252388" expanded="true" signature="1220:1535" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quickstart/src/app/app.component.spec.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quickstart/src/app/app.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="26" lean-forward="false" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#46#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quickstart/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quickstart/src/app/app.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="26" lean-forward="false" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#48#0" expanded="true" />
+            <marker date="1510067252388" expanded="true" signature="245:453" ph="..." />
+            <marker date="1510067252388" expanded="true" signature="284:443" ph="..." />
+            <marker date="1510067252388" expanded="true" signature="541:612" ph="{...}" />
+            <marker date="1510067252388" expanded="true" signature="625:723" ph="{...}" />
+            <marker date="1510067252388" expanded="true" signature="739:930" ph="{...}" />
+            <marker date="1510067252388" expanded="true" signature="961:1032" ph="{...}" />
+            <marker date="1510067252388" expanded="true" signature="1054:1131" ph="{...}" />
+            <marker date="1510067252388" expanded="true" signature="1150:1200" ph="{...}" />
+            <marker date="1510067252388" expanded="true" signature="1220:1535" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quickstart/src/app/hero.service.ts" />
+    <entry file="file://$PROJECT_DIR$/quickstart/src/app/app.component.spec.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quickstart/src/app/mock-heroes.ts" />
+    <entry file="file://$PROJECT_DIR$/quickstart/src/app/hero.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="1" lean-forward="false" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quickstart/src/app/app.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="26" lean-forward="false" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#46#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quickstart/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quickstart/src/app/hero.service.ts" />
+    <entry file="file://$PROJECT_DIR$/quickstart/src/app/mock-heroes.ts" />
+    <entry file="file://$PROJECT_DIR$/quickstart/src/app/app.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="8" column="30" lean-forward="false" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
+          <folding>
+            <element signature="e#0#46#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quickstart/src/app/app.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="12" lean-forward="true" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#48#0" expanded="true" />
+            <marker date="1510067252388" expanded="true" signature="245:453" ph="..." />
+            <marker date="1510067252388" expanded="true" signature="284:443" ph="..." />
+            <marker date="1510067252388" expanded="true" signature="541:612" ph="{...}" />
+            <marker date="1510067252388" expanded="true" signature="625:723" ph="{...}" />
+            <marker date="1510067252388" expanded="true" signature="739:930" ph="{...}" />
+            <marker date="1510067252388" expanded="true" signature="961:1032" ph="{...}" />
+            <marker date="1510067252388" expanded="true" signature="1054:1131" ph="{...}" />
+            <marker date="1510067252388" expanded="true" signature="1150:1200" ph="{...}" />
+            <marker date="1510067252388" expanded="true" signature="1220:1535" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quickstart/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quickstart/src/main.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#75#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quickstart/src/app/app.component.spec.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quickstart/src/app/app.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="51" lean-forward="false" selection-start-line="9" selection-start-column="51" selection-end-line="9" selection-end-column="51" />
+          <folding>
+            <element signature="e#0#46#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quickstart/src/app/hero-detail.component.ts" />
+    <entry file="file://$PROJECT_DIR$/quickstart/src/app/app.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-706">
+          <caret line="24" column="34" lean-forward="false" selection-start-line="24" selection-start-column="34" selection-end-line="24" selection-end-column="34" />
+          <folding>
+            <element signature="e#0#48#0" expanded="true" />
+            <marker date="1510067252388" expanded="true" signature="245:453" ph="..." />
+            <marker date="1510067252388" expanded="true" signature="284:443" ph="..." />
+            <marker date="1510067252388" expanded="true" signature="541:612" ph="{...}" />
+            <marker date="1510067252388" expanded="true" signature="625:723" ph="{...}" />
+            <marker date="1510067252388" expanded="true" signature="739:930" ph="{...}" />
+            <marker date="1510067252388" expanded="true" signature="961:1032" ph="{...}" />
+            <marker date="1510067252388" expanded="true" signature="1054:1131" ph="{...}" />
+            <marker date="1510067252388" expanded="true" signature="1150:1200" ph="{...}" />
+            <marker date="1510067252388" expanded="true" signature="1220:1535" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quickstart/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quickstart/src/main.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#75#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quickstart/src/app/app.component.spec.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quickstart/src/app/app.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="26" lean-forward="false" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#48#0" expanded="true" />
+            <marker date="1510067252388" expanded="true" signature="245:453" ph="..." />
+            <marker date="1510067252388" expanded="true" signature="284:443" ph="..." />
+            <marker date="1510067252388" expanded="true" signature="541:612" ph="{...}" />
+            <marker date="1510067252388" expanded="true" signature="625:723" ph="{...}" />
+            <marker date="1510067252388" expanded="true" signature="739:930" ph="{...}" />
+            <marker date="1510067252388" expanded="true" signature="961:1032" ph="{...}" />
+            <marker date="1510067252388" expanded="true" signature="1054:1131" ph="{...}" />
+            <marker date="1510067252388" expanded="true" signature="1150:1200" ph="{...}" />
+            <marker date="1510067252388" expanded="true" signature="1220:1535" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quickstart/src/app/hero.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="1" lean-forward="false" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quickstart/src/app/app.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="26" lean-forward="false" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#46#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quickstart/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quickstart/src/main.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#75#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quickstart/src/app/app.component.spec.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quickstart/src/app/hero.ts" />
+    <entry file="file://$PROJECT_DIR$/quickstart/src/app/app.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="51" lean-forward="false" selection-start-line="9" selection-start-column="51" selection-end-line="9" selection-end-column="51" />
+          <folding>
+            <element signature="e#0#46#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quickstart/src/app/hero-detail.component.ts" />
+    <entry file="file://$PROJECT_DIR$/quickstart/src/app/app.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-706">
+          <caret line="24" column="34" lean-forward="false" selection-start-line="24" selection-start-column="34" selection-end-line="24" selection-end-column="34" />
+          <folding>
+            <element signature="e#0#48#0" expanded="true" />
+            <marker date="1510067252388" expanded="true" signature="245:453" ph="..." />
+            <marker date="1510067252388" expanded="true" signature="284:443" ph="..." />
+            <marker date="1510067252388" expanded="true" signature="541:612" ph="{...}" />
+            <marker date="1510067252388" expanded="true" signature="625:723" ph="{...}" />
+            <marker date="1510067252388" expanded="true" signature="739:930" ph="{...}" />
+            <marker date="1510067252388" expanded="true" signature="961:1032" ph="{...}" />
+            <marker date="1510067252388" expanded="true" signature="1054:1131" ph="{...}" />
+            <marker date="1510067252388" expanded="true" signature="1150:1200" ph="{...}" />
+            <marker date="1510067252388" expanded="true" signature="1220:1535" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quickstart/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quickstart/src/main.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#75#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quickstart/src/app/app.component.spec.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quickstart/src/app/app.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="30" lean-forward="false" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
+          <folding>
+            <element signature="e#0#46#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quickstart/src/app/app.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-655">
+          <caret line="27" column="30" lean-forward="false" selection-start-line="27" selection-start-column="30" selection-end-line="27" selection-end-column="30" />
+          <folding>
+            <element signature="e#0#48#0" expanded="true" />
+            <marker date="1510067252388" expanded="true" signature="245:453" ph="..." />
+            <marker date="1510067252388" expanded="true" signature="284:443" ph="..." />
+            <marker date="1510067252388" expanded="true" signature="541:612" ph="{...}" />
+            <marker date="1510067252388" expanded="true" signature="625:723" ph="{...}" />
+            <marker date="1510067252388" expanded="true" signature="739:930" ph="{...}" />
+            <marker date="1510067252388" expanded="true" signature="961:1032" ph="{...}" />
+            <marker date="1510067252388" expanded="true" signature="1054:1131" ph="{...}" />
+            <marker date="1510067252388" expanded="true" signature="1150:1200" ph="{...}" />
+            <marker date="1510067252388" expanded="true" signature="1220:1535" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/quickstart/package.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -309,8 +714,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/quickstart/src/app/app.module.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="51" lean-forward="false" selection-start-line="9" selection-start-column="51" selection-end-line="9" selection-end-column="51" />
+        <state relative-caret-position="255">
+          <caret line="15" column="2" lean-forward="false" selection-start-line="15" selection-start-column="2" selection-end-line="15" selection-end-column="2" />
           <folding>
             <element signature="e#0#46#0" expanded="true" />
           </folding>
@@ -319,31 +724,49 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/quickstart/src/app/hero-detail.component.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="33" lean-forward="true" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
+        <state relative-caret-position="306">
+          <caret line="18" column="1" lean-forward="false" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
           <folding>
-            <element signature="e#0#42#0" expanded="true" />
-            <marker date="1509784085541" expanded="true" signature="232:443" ph="..." />
-            <marker date="1509784085541" expanded="true" signature="332:437" ph="..." />
+            <element signature="e#0#49#0" expanded="true" />
+            <marker date="1510065554559" expanded="true" signature="157:369" ph="..." />
+            <marker date="1510065554559" expanded="true" signature="255:358" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quickstart/src/app/mock-heroes.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="7" lean-forward="false" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quickstart/src/app/hero.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="35" lean-forward="false" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
+          <folding>
+            <element signature="e#0#43#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/quickstart/src/app/app.component.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-706">
-          <caret line="24" column="34" lean-forward="false" selection-start-line="24" selection-start-column="34" selection-end-line="24" selection-end-column="34" />
+        <state relative-caret-position="348">
+          <caret line="89" column="1" lean-forward="true" selection-start-line="89" selection-start-column="1" selection-end-line="89" selection-end-column="1" />
           <folding>
-            <element signature="e#0#42#0" expanded="true" />
-            <marker date="1509784073032" expanded="true" signature="505:693" ph="..." />
-            <marker date="1509784073032" expanded="true" signature="610:683" ph="..." />
-            <marker date="1509784073032" expanded="true" signature="781:846" ph="{...}" />
-            <marker date="1509784073032" expanded="true" signature="857:945" ph="{...}" />
-            <marker date="1509784073032" expanded="true" signature="959:1132" ph="{...}" />
-            <marker date="1509784073032" expanded="true" signature="1161:1226" ph="{...}" />
-            <marker date="1509784073032" expanded="true" signature="1246:1315" ph="{...}" />
-            <marker date="1509784073032" expanded="true" signature="1332:1376" ph="{...}" />
-            <marker date="1509784073032" expanded="true" signature="1394:1683" ph="{...}" />
+            <element signature="e#0#48#0" expanded="true" />
+            <marker date="1510067252388" expanded="true" signature="245:453" ph="..." />
+            <marker date="1510067252388" expanded="true" signature="284:443" ph="..." />
+            <marker date="1510067252388" expanded="true" signature="541:612" ph="{...}" />
+            <marker date="1510067252388" expanded="true" signature="625:723" ph="{...}" />
+            <marker date="1510067252388" expanded="true" signature="739:930" ph="{...}" />
+            <marker date="1510067252388" expanded="true" signature="961:1032" ph="{...}" />
+            <marker date="1510067252388" expanded="true" signature="1054:1131" ph="{...}" />
+            <marker date="1510067252388" expanded="true" signature="1150:1200" ph="{...}" />
+            <marker date="1510067252388" expanded="true" signature="1220:1535" ph="{...}" />
           </folding>
         </state>
       </provider>

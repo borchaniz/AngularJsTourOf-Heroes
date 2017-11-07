@@ -9,23 +9,21 @@ var __metadata = (this && this.__metadata) || function (k, v) {
     if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
 };
 var core_1 = require("@angular/core");
-var app_component_1 = require("./app.component");
-var core_2 = require("@angular/core");
+var hero_1 = require("./hero");
 var HeroDetailComponent = (function () {
     function HeroDetailComponent() {
     }
     return HeroDetailComponent;
 }());
 __decorate([
-    core_2.Input(),
-    __metadata("design:type", typeof (_a = typeof app_component_1.Hero !== "undefined" && app_component_1.Hero) === "function" && _a || Object)
+    core_1.Input(),
+    __metadata("design:type", hero_1.Hero)
 ], HeroDetailComponent.prototype, "hero", void 0);
 HeroDetailComponent = __decorate([
     core_1.Component({
         selector: 'hero-detail',
-        template: "<div *ngIf=\"hero\">\n    <h2>{{hero.name}} details!</h2>\n    <div><label>id: </label>{{selectedHero.id}}</div>\n    <div>\n      <label>name: </label>\n      <input [(ngModel)]=\"selectedHero.name\" placeholder=\"name\"/>\n    </div></div>"
+        template: "\n    <div *ngIf=\"hero\">\n      <h2>{{hero.name}} details!</h2>\n      <div><label>id: </label>{{hero.id}}</div>\n      <div>\n        <label>name: </label>\n        <input [(ngModel)]=\"hero.name\" placeholder=\"name\"/>\n      </div>\n    </div>\n  "
     })
 ], HeroDetailComponent);
 exports.HeroDetailComponent = HeroDetailComponent;
-var _a;
 //# sourceMappingURL=hero-detail.component.js.map
